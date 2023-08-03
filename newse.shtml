@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+
+
+<head>
+<title>Fauna - News</title>
+<!-- Version 2.0, last modified 22/08/03 -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="fauna.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr class="header"> 
+    <td width="125"><img src="images/fauna.jpg" width="125" height="100" align="top" class="image"></td>
+    <td height="100" class="header"><img src="images/faunaE.jpg" width="300" height="100"><img src="images/faunaE2.jpg" width="380" height="100"></td>
+  </tr>
+</table>
+<!-- comment to allow me to select the damn header columns heh -->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+  
+    <td width="125" align="center" valign="top" class="taint" border="0" cellpadding="0" cellspacing="0"> 
+      <a href="index.html">Cайт в Русском</a> </td>
+    
+	<td align="center" class="nav" border="0" cellpadding="0" cellspacing="0"> 
+      <a class=hover style="text-decoration:none" href="indexE.html">Home</a> 
+      | <a class=hover style="text-decoration:none" href="otchete.html">Work Reports</a> 
+      | <a class=hover style="text-decoration:none" href="contactE.html">Contact 
+      Info</a> | <a class=hover style="text-decoration:none" href="photose.html">Photographs</a> 
+      | <a class=hover style="text-decoration:none" href="currentproje.html">Current 
+      Projects </a>| <a class=hover style="text-decoration:none" href="newse.shtml">News</a> 
+      | <a class=hover style="text-decoration:none" href="emblemE.html">The Emblem</a> 
+    </td>
+  </tr>
+</table>
+<!-- comment to allow me to select the goddamn body columns heh -->
+<table width="100%" height="200" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="125" valign="top" class="sidebar"> 
+      <p>&nbsp;</p>
+      <p align="center"><strong><font color="#660000" size="-1">Fauna News</font></strong></p>
+      </td>
+    <td valign="top" class="body"> <p>&nbsp;</p>
+      <p align="center"> 
+        <!--#include file="news.txt" -->
+      </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="sidebarFooter">Home site of children's public ecological organization 
+      Fauna. Questions or Comments? - <a href="mailto:fauna@inbox.ru"> fauna@inbox.ru 
+      </a></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
